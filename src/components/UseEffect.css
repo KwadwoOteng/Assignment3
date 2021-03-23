@@ -1,0 +1,23 @@
+.cards {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.card {
+  background-color: rgb(255, 248, 59);
+  height: 15rem;
+  width: 15rem;
+  border-radius: 5ch;
+  margin-top: 1cm;
+  margin-left: 2cm;
+  font-size: 15px;
+  align-content: center;
+  padding: 1rem;
+}
+
+h1 {
+  width: 100%;
+  text-align: center;
+}
